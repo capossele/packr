@@ -1,6 +1,6 @@
 package foo
 
-import "github.com/gobuffalo/packr"
+import "github.com/capossele/packr"
 
 func init() {
 	packr.NewBox("../templates")

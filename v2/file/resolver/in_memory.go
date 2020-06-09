@@ -3,9 +3,9 @@ package resolver
 import (
 	"io/ioutil"
 
+	"github.com/capossele/packr/v2/file"
+	"github.com/capossele/packr/v2/plog"
 	"github.com/gobuffalo/packd"
-	"github.com/gobuffalo/packr/v2/file"
-	"github.com/gobuffalo/packr/v2/plog"
 )
 
 var _ Resolver = &InMemory{}

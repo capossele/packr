@@ -3,7 +3,7 @@ package packr
 import (
 	"testing"
 
-	"github.com/gobuffalo/packr/v2/file/resolver"
+	"github.com/capossele/packr/v2/file/resolver"
 	"github.com/stretchr/testify/require"
 )
 

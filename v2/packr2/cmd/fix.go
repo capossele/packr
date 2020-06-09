@@ -3,8 +3,8 @@ package cmd
 import (
 	"fmt"
 
-	packr "github.com/gobuffalo/packr/v2"
-	"github.com/gobuffalo/packr/v2/packr2/cmd/fix"
+	packr "github.com/capossele/packr/v2"
+	"github.com/capossele/packr/v2/packr2/cmd/fix"
 	"github.com/spf13/cobra"
 )
 

@@ -5,7 +5,7 @@ https://blog.gobuffalo.io/introducing-pkger-static-file-embedding-in-go-1ce76dc7
 
 # packr (v1)
 
-[![GoDoc](https://godoc.org/github.com/gobuffalo/packr?status.svg)](https://godoc.org/github.com/gobuffalo/packr)
+[![GoDoc](https://godoc.org/github.com/capossele/packr?status.svg)](https://godoc.org/github.com/capossele/packr)
 
 ## Packr has been updated to `v2`! Please read the `./v2/README.md` file for more details.
 
@@ -22,13 +22,13 @@ To get an idea of the what and why of packr, please enjoy this short video: [htt
 To install Packr utility
 
 ```text
-$ go get -u github.com/gobuffalo/packr/packr
+$ go get -u github.com/capossele/packr/packr
 ```
 
 To get the dependency
 
 ```text
-$ go get -u github.com/gobuffalo/packr
+$ go get -u github.com/capossele/packr
 ```
 
 ## Usage
@@ -72,7 +72,7 @@ package main
 import (
   "fmt"
 
-  "github.com/gobuffalo/packr"
+  "github.com/capossele/packr"
 )
 
 func main() {
@@ -113,7 +113,7 @@ package main
 import (
   "net/http"
 
-  "github.com/gobuffalo/packr"
+  "github.com/capossele/packr"
 )
 
 func main() {

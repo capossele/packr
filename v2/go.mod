@@ -1,10 +1,11 @@
-module github.com/gobuffalo/packr/v2
+module github.com/capossele/packr/v2
 
 go 1.13
 
 require (
 	github.com/gobuffalo/logger v1.0.3
 	github.com/gobuffalo/packd v1.0.0
+	github.com/capossele/packr/v2 v2.8.0
 	github.com/karrick/godirwalk v1.15.6
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/markbates/errx v1.1.0

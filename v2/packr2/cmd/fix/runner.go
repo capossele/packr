@@ -3,7 +3,7 @@ package fix
 import (
 	"fmt"
 
-	packr "github.com/gobuffalo/packr/v2"
+	packr "github.com/capossele/packr/v2"
 )
 
 // Check interface for runnable checker functions

@@ -4,9 +4,9 @@ import (
 	"os"
 	"path/filepath"
 
+	"github.com/capossele/packr/v2/jam"
+	"github.com/capossele/packr/v2/plog"
 	"github.com/gobuffalo/logger"
-	"github.com/gobuffalo/packr/v2/jam"
-	"github.com/gobuffalo/packr/v2/plog"
 	"github.com/spf13/cobra"
 )
 

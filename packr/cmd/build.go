@@ -5,8 +5,8 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/gobuffalo/packr"
-	"github.com/gobuffalo/packr/builder"
+	"github.com/capossele/packr"
+	"github.com/capossele/packr/builder"
 	"github.com/spf13/cobra"
 )
 
